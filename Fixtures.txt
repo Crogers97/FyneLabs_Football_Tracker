@@ -1,0 +1,17 @@
+[
+ {
+  "Name1": "Hibs",
+  "Name2": "Hearts",
+  "Score": "4-0"
+ },
+ {
+  "Name1": "Celtic",
+  "Name2": "Rangers",
+  "Score": "10-0"
+ },
+ {
+  "Name1": "Dundee United",
+  "Name2": "Dundee",
+  "Score": "0-0"
+ }
+]
